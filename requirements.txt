@@ -1,0 +1,10 @@
+notebook
+ipykernel
+nbformat
+matplotlib
+pillow
+numpy
+opencv-python
+tensorflow
+ultralytics
+python-docx

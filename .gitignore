@@ -1,0 +1,19 @@
+# Raw local course sources
+_posobie.docx
+Материалы/
+Ноутбуки/
+
+# Python and Jupyter runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Generated training/runtime artifacts
+runs/
+logs/
+*.h5
+*.keras
+*.onnx
