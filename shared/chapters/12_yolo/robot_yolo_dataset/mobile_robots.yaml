@@ -1,0 +1,7 @@
+path: C:\Users\ivank\OneDrive\Desktop\baga\verified_materials\robot_yolo_dataset
+train: images/train
+val: images/train
+names:
+  0: wheeled_robot
+  1: tracked_robot
+  2: legged_robot

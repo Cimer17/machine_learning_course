@@ -1,0 +1,3 @@
+[global]
+no-index = true
+find-links = C:\Users\ivank\OneDrive\Desktop\machine_learning_course\shared\package_mirror\wheelhouse

@@ -1,0 +1,14 @@
+chapter,path,type,description
+01_python_jupyter,shared/chapters/01_python_jupyter/README.md,guide,Настройка Python Jupyter и виртуального окружения
+02_python_basics,shared/chapters/02_python_basics/README.md,guide,Базовый синтаксис типы данных ввод и вывод
+03_functions_modules,shared/chapters/03_functions_modules/README.md,guide,Функции модули и структура кода
+04_matplotlib,shared/chapters/04_matplotlib/README.md,guide,Материалы по построению графиков
+05_numpy_csv,shared/chapters/05_numpy_csv/data/st.csv,data,CSV с параметрами мобильных роботов для рисунка 42
+05_numpy_csv,shared/chapters/05_numpy_csv/examples/plot_st_csv.py,example,Пример построения графика масса-скорость
+09_neural_networks,shared/chapters/09_neural_networks/data/robot_battle_variants.csv,data,Варианты для простой однонейронной модели
+10_opencv,shared/chapters/10_opencv/assets/coins_real.jpg,image,Исходное изображение монет
+10_opencv,shared/chapters/10_opencv/assets/extra_coin_images/manifest.csv,manifest,Дополнительные изображения монет
+11_keras_mobile_robot,shared/chapters/11_keras_mobile_robot/mobile_robot_dataset/dataset_manifest.csv,manifest,Keras-датасет мобильных роботов
+11_keras_mobile_robot,shared/chapters/11_keras_mobile_robot/assets/robot_assets_contact_sheet.jpg,image,Превью датасета мобильных роботов
+12_yolo,shared/chapters/12_yolo/robot_yolo_dataset/mobile_robots.yaml,data,Мини-датасет YOLO
+12_yolo,shared/chapters/12_yolo/assets/yolo_robot_classes_annotated.jpg,image,Пример разметки мобильных роботов

@@ -1,0 +1,12 @@
+package,version,purpose
+notebook,7.3.2,Jupyter Notebook interface
+ipykernel,6.29.5,Jupyter kernel for course virtual environment
+nbformat,5.10.4,Notebook file reading and validation
+matplotlib,3.10.0,Charts and visualizations
+pillow,11.1.0,Image generation and preprocessing
+numpy,1.26.4,Arrays and numerical calculations
+opencv-python,4.10.0.84,Computer vision and OpenCV labs
+tensorflow,2.18.0,Keras neural-network labs
+ultralytics,8.3.70,YOLO object detection labs
+python-docx,1.1.2,Optional DOCX processing for teaching materials
+PyYAML,6.0.2,YAML dataset configuration files
