@@ -1,4 +1,4 @@
-path: C:\Users\ivank\OneDrive\Desktop\baga\verified_materials\robot_yolo_dataset
+path: .
 train: images/train
 val: images/train
 names:

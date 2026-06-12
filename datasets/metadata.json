@@ -1,0 +1,31 @@
+{
+  "title": "Datasets for the Python, Neural Networks and Computer Vision Course",
+  "language": "ru",
+  "datasets": [
+    {
+      "path": "st.csv",
+      "type": "tabular",
+      "description": "Synthetic mobile robot parameters for CSV reading and mass-speed plotting."
+    },
+    {
+      "path": "mobile_robot_classification",
+      "type": "image-classification",
+      "classes": ["legged_robot", "tracked_robot", "wheeled_robot"],
+      "description": "Course dataset for Keras classification of mobile robot types."
+    },
+    {
+      "path": "robot_types_detection",
+      "type": "object-detection-yolo",
+      "classes": ["wheeled_robot", "tracked_robot", "legged_robot"],
+      "description": "Minimal YOLO dataset for robot type detection on a lab image."
+    },
+    {
+      "path": "mechanical_parts",
+      "type": "object-detection-yolo",
+      "classes": ["Bearing", "Bolt", "Gear", "Nut"],
+      "source": "Zenodo record 7504801, DOI 10.5281/zenodo.7504801",
+      "source_file": "Mechanical Parts Dataset.rar",
+      "source_md5": "fc2bfa33c4d0439188cb5974694a4520"
+    }
+  ]
+}

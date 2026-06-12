@@ -4,7 +4,13 @@ nbformat
 matplotlib
 pillow
 numpy
+pandas
+scikit-learn
+scikit-fuzzy
 opencv-python
 tensorflow
 ultralytics
 python-docx
+pyyaml
+fuzzywuzzy
+python-Levenshtein
